@@ -31,7 +31,6 @@
     		$db->exec($sql);
      
     		header('location: index.php');
-     
     	}
     ?>
     </body>
